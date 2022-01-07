@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/merged_sort.dir/src/chapter2/merged_sort.cpp.o  -o merged_sort  libCOMMONLIB.a 

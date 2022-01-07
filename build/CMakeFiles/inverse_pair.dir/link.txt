@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/inverse_pair.dir/src/chapter2/inverse_pair.cpp.o  -o inverse_pair  libCOMMONLIB.a 

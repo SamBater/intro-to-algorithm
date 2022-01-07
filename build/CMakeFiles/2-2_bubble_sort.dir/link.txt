@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/2-2_bubble_sort.dir/src/chapter2/2-2_bubble_sort.cpp.o  -o 2-2_bubble_sort  libCOMMONLIB.a 

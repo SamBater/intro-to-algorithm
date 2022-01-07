@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/quicksort.dir/src/chapter7/quicksort.cpp.o  -o quicksort  libCOMMONLIB.a 
