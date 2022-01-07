@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../common/common.h
+iostream
+-
+vector
+-
+cstdlib
+-
+algorithm
+-
+
+/root/projects/algorithm/src/chapter2/binary_search.cpp
+common.h
+/root/projects/algorithm/src/chapter2/common.h
+

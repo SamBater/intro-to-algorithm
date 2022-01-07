@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/projects/algorithm/src/chapter8/radix_sort.cpp
+iostream
+-
+cstdlib
+-
+vector
+-
+cmath
+-
+algorithm
+-
+

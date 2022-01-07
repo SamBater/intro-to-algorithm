@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../common/common.h
+iostream
+-
+vector
+-
+cstdlib
+-
+algorithm
+-
+
+/root/projects/algorithm/src/chapter2/2.3-4_inserted_sort_recursive.cpp
+common.h
+/root/projects/algorithm/src/chapter2/common.h
+

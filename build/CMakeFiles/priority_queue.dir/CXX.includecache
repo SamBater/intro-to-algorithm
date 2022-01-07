@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/projects/algorithm/src/chapter6/heap.hpp
+algorithm
+-
+vector
+-
+
+/root/projects/algorithm/src/chapter6/priority_queue.cpp
+iostream
+-
+priority_queue.hpp
+/root/projects/algorithm/src/chapter6/priority_queue.hpp
+
+/root/projects/algorithm/src/chapter6/priority_queue.hpp
+heap.hpp
+/root/projects/algorithm/src/chapter6/heap.hpp
+

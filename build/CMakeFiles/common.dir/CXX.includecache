@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/projects/algorithm/common/common.cpp
+common.h
+/root/projects/algorithm/common/common.h
+
+/root/projects/algorithm/common/common.h
+iostream
+-
+vector
+-
+cstdlib
+-
+

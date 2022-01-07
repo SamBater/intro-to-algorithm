@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/2.3-4_inserted_sort_recursive.dir/src/chapter2/2.3-4_inserted_sort_recursive.cpp.o  -o 2.3-4_inserted_sort_recursive  libCOMMONLIB.a 
